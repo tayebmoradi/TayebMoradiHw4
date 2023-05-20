@@ -10,6 +10,7 @@ namespace Hw4
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
